@@ -5,11 +5,11 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+Some stuff about me!
 
 ### More Information
 
-This is my first venture into making a blog through Jekyll. It's a big learning curve for me
+This is my first venture into making a blog through Jekyll. It's a big learning curve for me but now I'm started just watch me go :)
 
 ### Contact me
 
