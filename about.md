@@ -9,7 +9,7 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+This is my first venture into making a blog through Jekyll. It's a big learning curve for me
 
 ### Contact me
 
