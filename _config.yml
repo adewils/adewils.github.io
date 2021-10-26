@@ -11,6 +11,18 @@ description: blogging since 2009
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars.githubusercontent.com/u/42959312?v=4
 
+auto: false
+server: false
+lsi: false
+markdown: rdiscount
+pygments: true
+permalink: /:title
+paginate: 10
+category_dir: topics
+category_title_prefix:
+exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp"]
+destination: public
+
 #
 # Flags below are optional
 #
