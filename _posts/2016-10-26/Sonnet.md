@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sonnet
-published: false
+published: true
 ---
 
 If this sonnet is one of the worst you've ever read I apologise.  I think the premise is fine, but the execution is poor. When I wrote this in 2009 I was pleased with it but I now look back on it with the fondness of a father regarding his child, who is learning to walk.  This particular child never did learn to walk.  Poetry will never be my strong suit, but surely it's the taking part that matters?
@@ -12,7 +12,7 @@ One of the first things I wrote in my first Creative Writing class, this poem wa
 
 Sonnet
 
-How can it be that I can snuggle down
+> How can it be that I can snuggle down
 And be cauterised, then anaesthetised,
 By two minute, idiotic, sales pitches
 And situations turning comi to tragi?
@@ -27,4 +27,4 @@ Whose skin, desert winds will no more caress.
 He’ll never push away the joystick
 In Afghan skies and fly home, over Iran...
 
-images/plane-crash.jpg
+[plane-crash.jpg](images/plane-crash.jpg)
