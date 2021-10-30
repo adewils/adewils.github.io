@@ -15,6 +15,7 @@ auto: false
 server: false
 lsi: false
 markdown: kramdown
+theme: Minimal
 Rouge: true
 permalink: /:title
 paginate: 10
