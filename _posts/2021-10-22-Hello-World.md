@@ -27,4 +27,4 @@ Whose skin, desert winds will no more caress.
 He’ll never push away the joystick
 In Afghan skies and fly home, over Iran...
 
-images/plane-crash.jpg
+[images/plane-crash.jpg](images/plane-crash.jpg)
