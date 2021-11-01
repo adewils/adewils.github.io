@@ -10,4 +10,6 @@ Roger Ebert of the Sun Chicago Times only gave Jack Clayton’s film 2 1/2 stars
 
 However little a few critics appeared to have enjoyed the 1974 film, it opened my eyes to F. Scott Fitzgerald’s wonderful storytelling in this modern classic.  
 
-[Click this link](https://archive.org/details/greatgatsby_2109_librivox) and listen to a chapter or two of my audiobook version of _The Great Gatsby_. I hope you enjoy listening.
+[Click this link](https://archive.org/details/greatgatsby_2109_librivox) and listen to a chapter or two of my audiobook version of _The Great Gatsby_. 
+
+I hope you enjoy listening.
