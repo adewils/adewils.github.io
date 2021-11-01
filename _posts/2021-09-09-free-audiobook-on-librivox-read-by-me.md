@@ -1,4 +1,4 @@
-Since I wrote a post about becoming a Librivox audiobook reader I’ve read _The Great Gatsby_ by Francis Scott Fitzgerald. It’s available to listen to now. This free audiobook on Librivox read by me, is the 2nd version of the original F. Scott Fitzgerald novel on Librivox. Nevertheless it ‘s already had 40,469 views!  
+Since [I wrote a post](https://adewils.github.io/latest/librivox/) about becoming a Librivox audiobook reader I’ve read _The Great Gatsby_ by Francis Scott Fitzgerald. It’s available to listen to now. This free audiobook on Librivox read by me, is the 2nd version of the original F. Scott Fitzgerald novel on Librivox. Nevertheless it ‘s already had 40,469 views!  
 
 Wikipedia says The Great Gatsby is ‘set in the Jazz Age on Long Island, near New York City. It depicts narrator Nick Carraway’s interactions with mysterious millionaire Jay Gatsby and Gatsby’s obsession to reunite with his former lover, Daisy Buchanan’.
 
