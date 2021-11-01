@@ -1,16 +1,19 @@
 ---
 id: 80569
 title: Latest episode of the Monday Evening Show
-date: 2021-10-26T21:30:00+01:00
+date: {}
 author: adewils
-excerpt: "Another chance to hear the latest episode of The Monday Evening Show in which I showcased the 35 artists I'd played the most over the last year"
+excerpt: >-
+  Another chance to hear the latest episode of The Monday Evening Show in which
+  I showcased the 35 artists I'd played the most over the last year
 layout: post
-guid: https://www.adewils.com/?p=80569
+guid: 'https://www.adewils.com/?p=80569'
 permalink: /latest/monday-evening-show/
 image: /wp-content/uploads/2021/08/D7882365-083F-4DF5-A163-B51D36151621-1332x666.jpeg
 categories:
   - Latest
   - Radio
+published: true
 ---
 <p class="has-drop-cap has-text-align-left has-white-background-color has-background">
   The Late Show&#8217;s dead! Well&#8230; dead to me, anyhow! The schedule on <a href="http://www.baytrustradio.org.uk" target="_blank" rel="noreferrer noopener">www.baytrustradio.org.uk</a> has had an Autumn refresh, which means a change for me.
@@ -21,9 +24,9 @@ categories:
 </p>
 
 <p class="has-text-align-left">
-  <strong>Here&#8217;s a podcast of the latest episode 107, in which I showcased the 35 artists I&#8217;d played the most over the last year (October 2020 to October 2021). If you listen to the show regularly you might be able to guess a few of them!</strong>
+  <strong>Here&#8217;s [a podcast of the latest episode 107](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-8) in which I showcased the 35 artists I&#8217;d played the most over the last year (October 2020 to October 2021). If you listen to the show regularly you might be able to guess a few of them!</strong>
 </p>
-https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-8
+
 <p class="has-text-align-left">
   <br />Join me every week, Monday&#8217;s at 7pm (GMT)!
 </p><figure class="wp-block-image size-large">
