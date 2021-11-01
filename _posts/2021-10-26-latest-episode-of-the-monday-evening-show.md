@@ -1,9 +1,7 @@
 ---
 published: true
 ---
-## Latest Espisode of the Monday Evening Show
-
- The Late Show’s dead! Well… dead to me, anyhow! The schedule on www.baytrustradio.org.uk has had an Autumn refresh, which means a change for me.  
+The Late Show’s dead! Well… dead to me, anyhow! The schedule on www.baytrustradio.org.uk has had an Autumn refresh, which means a change for me.  
  
  After 99 episodes of the Late Show on Sunday nights, I’m now presenting the latest episode of Bay Trust Radio’s alternative music show on Monday evening.  
  
