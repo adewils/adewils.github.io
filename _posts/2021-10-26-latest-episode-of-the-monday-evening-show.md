@@ -2,7 +2,7 @@
 published: true
 ---
 The Late Show’s dead! Well… dead to me, anyhow! The schedule on www.baytrustradio.org.uk has had an Autumn refresh, which means a change for me.    
-<!--more-->
+
  After 99 episodes of the Late Show on Sunday nights, I’m now presenting the latest episode of Bay Trust Radio’s alternative music show on Monday evening.  
  
  [Here’s a podcast](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-8) of the latest episode 107 in which I showcased the 35 artists I’d played the most over the last year (October 2020 to October 2021). If you listen to the show regularly you might be able to guess a few of them!  
