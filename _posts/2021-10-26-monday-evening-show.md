@@ -25,7 +25,6 @@ published: true
 
 <p class="has-text-align-left">
   <strong>Here&#8217;s [a podcast of the latest episode 107](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-8) in which I showcased the 35 artists I&#8217;d played the most over the last year (October 2020 to October 2021). If you listen to the show regularly you might be able to guess a few of them!</strong>
-</p>
 
 <p class="has-text-align-left">
   <br />Join me every week, Monday&#8217;s at 7pm (GMT)!
