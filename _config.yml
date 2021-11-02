@@ -23,12 +23,6 @@ category_dir: topics
 category_title_prefix:
 exclude: ["lib", "blog.rb", "Capfile", "config", "log", "Rakefile", "tmp"]
 destination: public
-
-{% if post.content contains '<!--more-->' %}
-    {{ post.content | split:'<!--more-->' | first }}
-{% else %}
-    <!-- Case for when no excerpt is defined -->
-{% endif %}
 #
 # Flags below are optional
 #
@@ -101,4 +95,3 @@ exclude:
   - README.md
   - CNAME
 # Add remote theme
-
