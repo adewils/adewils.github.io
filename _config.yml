@@ -15,7 +15,7 @@ auto: false
 server: false
 lsi: false
 markdown: kramdown
-theme: minima
+remote_theme: oinam/oinam-jekyll
 Rouge: true
 permalink: /:title
 paginate: 10
@@ -71,8 +71,6 @@ baseurl: ""
 # !! You don't need to change any of the configuration flags below !!
 #
 
-permalink: /:title/
-
 # The release of Jekyll Now that you're using
 version: v1.2.0
 
@@ -102,3 +100,5 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+# Add remote theme
+
