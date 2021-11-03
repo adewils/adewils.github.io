@@ -13,7 +13,7 @@ published: true
 ---
 **CAC and Centre Pompidou Màlaga**  
 
-In December 2018 on a day when I was starting with “man ’flu“, I revisited CAC Màlaga for the Hernan Bas exhibition, and also ventured into Centre Pompidou Màlaga, for the first time. I’d been looking forward to that for a while.  
+In December 2018 on a day when I was starting with man ’flu, I revisited CAC Màlaga for the Hernan Bas exhibition, and also ventured into Centre Pompidou Màlaga, for the first time. I’d been looking forward to that for a while.  
 
 The last time I’d been to CAC was to see Vik Muniz’s “Wasteland” exhibition. Before that, I’d been to a Gilbert and George show.  
 
