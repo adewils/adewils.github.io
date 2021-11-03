@@ -1,6 +1,7 @@
 ---
 id: 80857
-title: A video of my visit to a Vik Muniz exhibition "Portraits of Garbage"
+title: >-
+  _posts/2021-07-01-a-video-of-my-visit-to-a-vik-muniz-exhibition-Portraits-of-Garbage
 date: 2021-07-01T00:00:00.000Z
 author: adewils
 excerpt: >-
