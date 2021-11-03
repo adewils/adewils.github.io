@@ -1,6 +1,6 @@
 ---
 id: 81093
-title: Treasure Hunting
+title: _posts/2021-08-02-treasure-hunting.md
 date: {}
 author: adewils
 layout: post
@@ -15,9 +15,13 @@ categories:
   - Video
 published: true
 ---
-I wrote this in 2013, when I was working in Alderley Edge. I was interested in geocaching [an outdoor recreational activity, in which participants use a GPS receiver or mobile device and other navigational techniques to hide and seek containers, called "geocaches" or "caches", at specific locations marked by coordinates all over the world...thanks Wikipedia!] I found a well-hidden cache in a beautiful wooded area on the Edge, which inspired me to write this...    
+I wrote this in 2013, when I was working in Alderley Edge and I was interested in geocaching.  
 
-(What was I on? High on life itself, I guess)  
+Geocaching is you don't know, is an outdoor recreational activity, in which participants use a GPS receiver or mobile device and other navigational techniques to hide and seek containers, called "geocaches" or "caches", at specific locations marked by coordinates all over the world...thanks Wikipedia!  
+
+I found a well-hidden cache in a beautiful wooded area on the Edge, which inspired me to write this. What was I on? High on life itself, I guess. Life was good and a bit of an adventure.  
+
+---  
 
 Treasure hunting, geocaching, I pull off the main road and into a narrow lane I’m only slightly familiar with. It runs between two faster roads but I can’t give away this location, and soon you’ll know why.  
 
@@ -53,6 +57,6 @@ With a little more effort, the ageing plastic slowly comes away. I hope this act
 
 It’s not the treasure, it’s the puzzle solved, that’s the important thing.  I sign the log, clip back the lid, and restore the box, making sure I pocket the coin to move it on to a geocache somewhere else.  These are the rules of the game. The cache eases gently back into place.   
 
-I leave the scene, almost undisturbed.  The boughs re-drape.  The moss springs back and receives the rain.  The rabbit and the badger raise their heads above the parapet and carefully survey the near horizon.  Rain slips off the wire.  
+I leave the scene, almost undisturbed.  The boughs re-drape.  The moss springs back and receives the rain.  The rabbit and the badger raise their heads above the parapet and carefully survey the near horizon.  Rain slips off the wire.
 
 Looking for some more magic? Try here ...
