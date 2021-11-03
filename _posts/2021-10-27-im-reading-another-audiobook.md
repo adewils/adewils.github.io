@@ -1,13 +1,12 @@
 ---
 id: 81332
 title: _posts/2021-10-27-im-reading-another-audiobook.md
-date:
-  YYYY-MM-DD: null
+date: 'YYYY-MM-DD:{}'
 author: adewils
 layout: post
 guid: 'https://www.adewils.com/?p=81332'
 permalink: /latest/im-reading-another-audiobook/
-image: /wp-content/uploads/2021/03/fernando-lavin-YDdZ6nbGS24-unsplash-1332x666.jpg
+image: null
 categories:
   - Latest
 published: true
