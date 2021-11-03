@@ -1,15 +1,15 @@
 ---
 id: 81131
 title: _posts/2021-08-04-they-were-arguing-again.md
-date: {}
+date: null
 author: adewils
 excerpt: >-
   I wrote this in a writing class after receiving a writing prompt intended to
   stimulate the imagination! Here's where it took me. Why not give it a try
   yourself?
 layout: post
-guid: 'https://www.adewils.com/?p=81131'
-permalink: /flash-fiction/they-were-arguing-again/
+guid: null
+permalink: null
 image: null
 categories:
   - Flash fiction
