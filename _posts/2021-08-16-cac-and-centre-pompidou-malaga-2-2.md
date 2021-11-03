@@ -4,10 +4,9 @@ title: _posts/2021-08-16-cac-and-centre-pompidou-malaga.md
 date: {}
 author: adewils
 layout: post
-guid: 'https://www.adewils.com/?p=81148'
-permalink: /reportage/cac-and-centre-pompidou-malaga-2-2/
-image: >-
-  /wp-content/uploads/2019/08/Art-and-Culture-in-Andalusia-Centre-Pompidou-Malaga-1332x666.jpg
+guid: null
+permalink: null
+image: ''
 categories:
   - Reportage
   - Video
