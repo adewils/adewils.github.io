@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 published: true
 ---
-
 ## About me  
 About night school, writers groups, writing stories, poems, this blog. About me.
 Readin’ and writin’ have always been easier for me than ‘rithmetic, so that’s why this isn’t a blog about numbers. Mathematicians see beauty in equations, but I never could understand them.  
@@ -42,3 +41,13 @@ Every time I look, I find something that needs improvement. So here it is. So fa
 Ta-da!
 … and if you enjoyed this, why not read about my visit to [the Pompidou Centre](_posts/2021-08-16-cac-and-centre-pompidou-malaga-2-2.md) in Malaga
 
+
+Some stuff about me!
+
+### More Information
+
+This is my first venture into making a blog through Jekyll. It's a big learning curve for me but now I'm started just watch me go :)
+
+### Contact me
+
+[email@github.com](mailto:42959312+adewils@users.noreply.github.com)
