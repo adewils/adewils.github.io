@@ -1,7 +1,7 @@
 ---
 id: null
-title: _posts/2021/07/31-inside-the-witchs-house
-date: null
+title: _posts/2021-07-31-inside-the-witchs-house
+date: 2021-07-31T00:00:00.000Z
 author: adewils
 excerpt: >-
   In the holidays I went to visit the woman that Dad calls a witch. I never got
