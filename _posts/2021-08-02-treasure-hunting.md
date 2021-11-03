@@ -1,7 +1,7 @@
 ---
 id: 81093
 title: _posts/2021-08-02-treasure-hunting.md
-date: {}
+date: null
 author: adewils
 layout: post
 guid: null
