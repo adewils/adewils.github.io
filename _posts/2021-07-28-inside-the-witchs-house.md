@@ -1,15 +1,15 @@
 ---
-id: 81004
+id: null
 title: _posts/2021/07/31-inside-the-witchs-house
-date: {}
+date: null
 author: adewils
 excerpt: >-
   In the holidays I went to visit the woman that Dad calls a witch. I never got
-  home and I think we’re working on spells together now, but I'm not sure...
+  home and I think we’re working on spells together now, but I'm not sure
 layout: post
-guid: 'https://www.adewils.com/?p=81004'
-permalink: /flash-fiction/inside-the-witchs-house/
-image: /wp-content/uploads/2021/07/EA279183-D33B-44FF-9004-55492223163E-1280x666.jpeg
+guid: null
+permalink: null
+image: null
 categories:
   - Flash fiction
   - Latest
