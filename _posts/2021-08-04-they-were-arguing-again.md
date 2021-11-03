@@ -1,6 +1,6 @@
 ---
 id: 81131
-title: _posts/2021-8-4-they-were-arguing-again.md
+title: _posts/2021-08-04-they-were-arguing-again.md
 date: {}
 author: adewils
 excerpt: >-
@@ -10,7 +10,7 @@ excerpt: >-
 layout: post
 guid: 'https://www.adewils.com/?p=81131'
 permalink: /flash-fiction/they-were-arguing-again/
-image: /wp-content/uploads/2021/08/Vietnamese-Pot-Bellied-Pig-768x530-1.jpg
+image: null
 categories:
   - Flash fiction
   - Latest
