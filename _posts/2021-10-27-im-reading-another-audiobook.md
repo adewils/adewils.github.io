@@ -1,11 +1,11 @@
 ---
 id: 81332
 title: _posts/2021-10-27-im-reading-another-audiobook.md
-date: 'YYYY-MM-DD:{}'
+date: null
 author: adewils
 layout: post
-guid: 'https://www.adewils.com/?p=81332'
-permalink: /latest/im-reading-another-audiobook/
+guid: null
+permalink: null
 image: null
 categories:
   - Latest
