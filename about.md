@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 published: true
 ---
-## About me  
-About night school, writers groups, writing stories, poems, this blog. About me.
+About night school, writers groups, writing stories, poems, this blog. About me.  
+
 Readin’ and writin’ have always been easier for me than ‘rithmetic, so that’s why this isn’t a blog about numbers. Mathematicians see beauty in equations, but I never could understand them.  
 
 I always enjoyed reading a story more than solving Pythagoras, a subject of which I know as little about as could fit on a pinhead. As a child I read voraciously. Then, as probably now, the teacher often wanted kids to write a story in class. It passed the time, expanded our imaginations and gave the teacher valuable time to plan and mark work.  
