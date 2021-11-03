@@ -1,13 +1,13 @@
 ---
 id: 80788
-title: Tomorrows diary entry
-date: {}
+title: _posts/2021-06-29-Tomorrows diary entry
+date: 2021-06-29T00:00:00.000Z
 author: adewils
 excerpt: >-
   I wrote this fictional diary entry prompted by the mention of 'cocktails' by
   another writer in my Goldster writing class today
 layout: post
-guid: 'https://www.adewils.com/?p=80788'
+guid: null
 permalink: /latest/tomorrows-diary-entry/
 image: null
 categories:
