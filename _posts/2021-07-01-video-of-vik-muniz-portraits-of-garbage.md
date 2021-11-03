@@ -1,15 +1,15 @@
 ---
 id: 80857
 title: A video of my visit to a Vik Muniz exhibition "Portraits of Garbage"
-date: {}
+date: 2021-10-27T00:00:00.000Z
 author: adewils
 excerpt: >-
   It’s hard to believe it was 2012 when I saw Vik Muniz' Portraits of Garbage
   exhibition at the CAC Malaga. I made a video!
 layout: post
-guid: 'https://www.adewils.com/?p=80857'
+guid: null
 permalink: /latest/video-of-vik-muniz-portraits-of-garbage/
-image: /wp-content/uploads/2015/11/IMG_0132-e1468257135712.jpg
+image: null
 categories:
   - Latest
 published: true
