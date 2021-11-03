@@ -19,7 +19,9 @@ I wrote this in 2013, when I was working in Alderley Edge and I was interested i
 
 Geocaching is you don't know, is an outdoor recreational activity, in which participants use a GPS receiver or mobile device and other navigational techniques to hide and seek containers, called "geocaches" or "caches", at specific locations marked by coordinates all over the world...thanks Wikipedia!  
 
-I found a well-hidden cache in a beautiful wooded area on the Edge, which inspired me to write this. What was I on? High on life itself, I guess. Life was good and a bit of an adventure.
+I found a well-hidden cache in a beautiful wooded area on the Edge, which inspired me to write this. What was I on? High on life itself, I guess. Life was good and a bit of an adventure.  
+
+---  
 
 Treasure hunting, geocaching, I pull off the main road and into a narrow lane I’m only slightly familiar with. It runs between two faster roads but I can’t give away this location, and soon you’ll know why.  
 
