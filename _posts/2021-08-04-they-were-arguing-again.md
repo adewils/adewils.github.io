@@ -16,7 +16,10 @@ categories:
   - Latest
 published: true
 ---
-"They were arguing again"was a prompt from David Mark's writing class. Here's where it took me.
+## "They were arguing again"  
+
+... was a prompt from David Mark's writing class. Here's where it took me.  
+
 I lifted my legs out of bed and sat up. The sound of something being smashed and things getting knocked about, came up through the ceiling.   
 
 I pulled open my door to see Jane’s was shut. Typical. I could hear the usual loud rap music. As she didn’t answer my knock, I risked opening the door. She was doing something funny with a straw and some white powder at her desk.   
