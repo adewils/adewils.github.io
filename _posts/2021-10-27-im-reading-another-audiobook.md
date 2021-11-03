@@ -13,7 +13,7 @@ published: true
 extract: >-
   Having wet my head recently in the world of audiobook narration, I’ve started
   recording another for LibriVox. But it’s not available to listen to just yet!
-  My new book may... image: /images/memories-and-adventures.jpeg
+  My new book may... image:
 ---
 ![]({{site.baseurl}}/images/memories-and-adventures.jpeg)
 
