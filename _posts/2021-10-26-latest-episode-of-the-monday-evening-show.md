@@ -1,14 +1,14 @@
 ---
 published: true
-id: 43
-date: 2009-05-01T18:08:23.000Z
+id: null
+date: null
 author: adewils
 excerpt: >-
   The Late Show’s dead! Well… dead to me, anyhow! The schedule on
   www.baytrustradio.org.uk has had an Autumn refresh, which means a change for
   me... 
 layout: post
-guid: 'http://adrianwilson.co.uk/blog/?p=43'
+guid: null
 permalink: null
 dsq_thread_id:
   - ''
