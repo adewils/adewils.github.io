@@ -1,5 +1,51 @@
 ---
 published: true
+id: 43
+date: 2009-05-01T18:08:23.000Z
+author: adewils
+excerpt: >-
+  The Late Show’s dead! Well… dead to me, anyhow! The schedule on
+  www.baytrustradio.org.uk has had an Autumn refresh, which means a change for
+  me... 
+layout: post
+guid: 'http://adrianwilson.co.uk/blog/?p=43'
+permalink: null
+dsq_thread_id:
+  - ''
+  - ''
+tumblr_post_id:
+  - ''
+  - ''
+block:
+  - ''
+  - ''
+explicit:
+  - ''
+  - ''
+date_recorded:
+  - ''
+  - ''
+duration:
+  - ''
+  - ''
+filesize:
+  - ''
+  - ''
+audio_file:
+  - ''
+  - ''
+episode_type:
+  - audio
+  - audio
+slide_template:
+  - ''
+  - default
+rp4wp_auto_linked:
+  - '1'
+  - '1'
+image: null
+categories:
+  - Reportage
 ---
 The Late Show’s dead! Well… dead to me, anyhow! The schedule on www.baytrustradio.org.uk has had an Autumn refresh, which means a change for me.    
 
