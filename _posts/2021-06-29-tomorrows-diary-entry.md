@@ -9,7 +9,7 @@ excerpt: >-
 layout: post
 guid: 'https://www.adewils.com/?p=80788'
 permalink: /latest/tomorrows-diary-entry/
-image: /wp-content/uploads/2021/06/pexels-andrea-piacquadio-3771115-1332x666.jpg
+image: null
 categories:
   - Latest
 published: true
