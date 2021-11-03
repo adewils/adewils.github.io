@@ -1,6 +1,6 @@
 ---
 id: 81148
-title: _posts/2021-08-16-cac-and-centre-pompidou-malaga-2-2.md
+title: _posts/2021-08-16-cac-and-centre-pompidou-malaga.md
 date: {}
 author: adewils
 layout: post
@@ -28,4 +28,4 @@ On the same day I walked right across town from the CAC to the port to visit the
 
 The Pompidou Centre has a great gift shop, suitable for every pocket! I bought a couple of shopping bags featuring Van Gogh on one and Gustav Klimt on the other. Great for my wife and mother-in-law. Is that sexist?! They love shopping much more than I do.  
 
-CAC has a bookshop too. All the books are in Spanish as far as I could tell. It’s more serious than Centre Pompidou’s offering. There aren’t as many toys, keyring, or rubbers in CAC’s bookshop…
+CAC has a bookshop too. All the books are in Spanish as far as I could tell. It’s more serious than Centre Pompidou’s offering. There aren’t as many toys, keyrings, or erasers in CAC’s bookshop…
