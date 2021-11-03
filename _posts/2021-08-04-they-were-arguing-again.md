@@ -1,6 +1,6 @@
 ---
 id: 81131
-title: They were arguing again ...
+title: _posts/2021-08-04-they-were-arguing-again.md
 date: {}
 author: adewils
 excerpt: >-
