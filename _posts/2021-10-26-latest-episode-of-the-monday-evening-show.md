@@ -1,7 +1,7 @@
 ---
 published: true
 id: null
-date: {}
+date: 2021-10-26T00:00:00.000Z
 author: adewils
 excerpt: >-
   The Late Show’s dead! Well… dead to me, anyhow. The schedule on
