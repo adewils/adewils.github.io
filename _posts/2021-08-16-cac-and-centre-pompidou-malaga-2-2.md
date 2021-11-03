@@ -1,12 +1,11 @@
 ---
-id: 81148
+id: null
 title: _posts/2021-08-16-cac-and-centre-pompidou-malaga.md
-date: {}
+date: null
 author: adewils
 layout: post
 guid: null
 permalink: null
-image: ''
 categories:
   - Reportage
   - Video
