@@ -58,6 +58,20 @@ titles_from_headings:
   strip_title: true
   collections: true
 
+#socials
+# Includes an icon in the footer for each username you enter
+footer-links:
+  dribbble:
+  email:
+  facebook:
+  flickr:
+  github: adewils
+  instagram:
+  linkedin:
+  pinterest:
+  rss: # just type anything here for a working RSS icon
+  twitter: adewils
+  
 exclude:
   - .jekyll-cache/
   - .sass-cache/
