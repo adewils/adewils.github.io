@@ -16,9 +16,11 @@ categories:
   - Latest
 published: true
 ---
-## "They were arguing again"  
+## "They were arguing again" ## 
 
 ... was a prompt from David Mark's writing class. Here's where it took me.  
+
+---
 
 I lifted my legs out of bed and sat up. The sound of something being smashed and things getting knocked about, came up through the ceiling.   
 
