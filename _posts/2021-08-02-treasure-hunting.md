@@ -4,10 +4,9 @@ title: _posts/2021-08-02-treasure-hunting.md
 date: {}
 author: adewils
 layout: post
-guid: 'https://www.adewils.com/?p=81093'
+guid: null
 permalink: /reportage/treasure-hunting/
-spay_email:
-  - ''
+spay_email: null
 image: null
 categories:
   - Latest
