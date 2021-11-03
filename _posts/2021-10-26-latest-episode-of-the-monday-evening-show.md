@@ -4,9 +4,9 @@ id: null
 date: null
 author: adewils
 excerpt: >-
-  The Late Show’s dead! Well… dead to me, anyhow! The schedule on
-  www.baytrustradio.org.uk has had an Autumn refresh, which means a change for
-  me... 
+  The Late Show’s dead! Well… dead to me, anyhow. The schedule on
+  www.baytrustradio.org.uk has had an Autumn refresh, which means a change of
+  day for me.
 layout: post
 guid: null
 permalink: null
