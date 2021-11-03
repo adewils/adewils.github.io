@@ -1,16 +1,16 @@
 ---
-id: 80952
+id: null
 title: Frustration
-date: {}
+date: 2021-07-23T00:00:00.000Z
 author: adewils
 excerpt: >-
   In a kitchen setting where an artist was demonstrating tone on a Rembrandt
   study, via Zoom, an explosion was oddly unexpected.  I ducked down. That’s the
   last Andy McNab I’ll ever read. 
 layout: post
-guid: 'https://www.adewils.com/?p=80952'
+guid: null
 permalink: /latest/frustration/
-image: /wp-content/uploads/2021/07/IMG_2482-1332x666.jpeg
+image: null
 categories:
   - Latest
 published: true
