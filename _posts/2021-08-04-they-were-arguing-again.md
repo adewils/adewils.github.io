@@ -1,6 +1,6 @@
 ---
 id: 81131
-title: 'They were arguing again&#8230;'
+title: They were arguing again ...
 date: {}
 author: adewils
 excerpt: >-
