@@ -1,6 +1,6 @@
 ---
 id: 81004
-title: _posts/2021/07/31-Inside-the-witch's-house
+title: _posts/2021/07/31-inside-the-witchs-house
 date: {}
 author: adewils
 excerpt: >-
