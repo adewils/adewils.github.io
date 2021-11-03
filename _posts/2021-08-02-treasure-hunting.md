@@ -8,7 +8,7 @@ guid: 'https://www.adewils.com/?p=81093'
 permalink: /reportage/treasure-hunting/
 spay_email:
   - ''
-image: /wp-content/uploads/2021/07/Geocache-1000x500-1.png
+image: null
 categories:
   - Latest
   - Reportage
