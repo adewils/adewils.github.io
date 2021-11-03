@@ -1,7 +1,7 @@
 ---
-id: 81131
+id: null
 title: _posts/2021-08-04-they-were-arguing-again.md
-date: null
+date: 2021-08-04T00:00:00.000Z
 author: adewils
 excerpt: >-
   I wrote this in a writing class after receiving a writing prompt intended to
