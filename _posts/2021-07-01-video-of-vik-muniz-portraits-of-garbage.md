@@ -1,7 +1,7 @@
 ---
 id: 80857
 title: A video of my visit to a Vik Muniz exhibition "Portraits of Garbage"
-date: 2021-10-27T00:00:00.000Z
+date: 2021-07-01T00:00:00.000Z
 author: adewils
 excerpt: >-
   It’s hard to believe it was 2012 when I saw Vik Muniz' Portraits of Garbage
