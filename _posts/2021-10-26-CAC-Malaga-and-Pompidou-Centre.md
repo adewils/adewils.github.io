@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 In December 2018 on a day when I was starting with man ’flu, I revisited CAC Màlaga for the Hernan Bas exhibition, and also ventured into Centre Pompidou Màlaga, for the first time. I’d been looking forward to that for a while.  
 
