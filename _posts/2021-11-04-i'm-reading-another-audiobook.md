@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: null
 author: adewils
 excerpt: >-
   Having wet my head recently in the world of audiobook narration, I’ve started
