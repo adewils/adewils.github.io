@@ -10,9 +10,8 @@ People lived on Jardim Granacho, eking out a living picking through the garbage 
 
 Muniz made a film about the project, which he named “Wasteland”, and it’s available as a DVD from Amazon.  
 
-When I got back home, I was so impressed by the work I’d seen in the photos, I wanted to write about it. Some lines of poetry came to me and I set it down in verse… non-rhyming of course! You can hear a reading of the poem, which I named “For Your Pleasure”, in the video below. Or you can read the poem yourself here.  
+When I got back home, I was so impressed by the work I’d seen in the photos, I wanted to write about it. Some lines of poetry came to me and I set it down in verse… non-rhyming of course! You can hear a reading of the poem, which I named “For Your Pleasure”, [in the video](https://youtu.be/zQ-iIJL5_eI).  
 
 The title “For Your Pleasure” was a nod to the art house band Roxy Music, whose album of the same name over the years, has given me much enjoyment.  
 
 The music on the video is “Granaina” by Pepe Habuelcha from the album, “The Beginner’s Guide to Flamenco”.
-
