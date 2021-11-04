@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 Having wet my head recently in the world of audiobook narration, I’ve started recording another for LibriVox. But it’s not available to listen to, just yet.  
 
@@ -9,5 +9,3 @@ I’m reading the _Memories and Adventures by Sir Arthur Doyle_ as an audiobook 
 
 Watch this space...
 ![]({{site.baseurl}}/images/memories-and-adventures.jpeg)
-
-
