@@ -1,7 +1,7 @@
 ---
 published: false
 id: null
-date: {}
+date: null
 author: adewils
 layout: post
 categories:
