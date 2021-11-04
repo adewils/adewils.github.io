@@ -1,7 +1,7 @@
 ---
 id: null
 title: _posts/2021-08-16-cac-and-centre-pompidou-malaga.md
-date: 2021-08-16T00:00:00.000Z
+date: 2021-08-16T09:00:00.000Z
 author: adewils
 layout: post
 guid: null
