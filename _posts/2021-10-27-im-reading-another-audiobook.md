@@ -1,7 +1,7 @@
 ---
 id: null
 title: _posts/2021-10-27-im-reading-another-audiobook.md
-date: 2021-10-27T00:00:00.000Z
+date: {}
 author: adewils
 layout: post
 guid: null
