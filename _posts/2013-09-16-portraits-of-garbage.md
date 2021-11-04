@@ -1,5 +1,9 @@
 ---
 published: true
+extract: >-
+  Taking photos is graciously allowed inside Malagá’s Centro de Arte
+  Contemperanéo (known as the CAC). It is probably the norm at most galleries
+  these days. I’ve taken advantage in Glasgow, Liverpool, London and in Malaga.
 ---
  
 Taking photos is graciously allowed inside Malagá’s Centro de Arte Contemperanéo (known as the CAC). It is probably the norm at most galleries these days. I’ve taken advantage in Glasgow, Liverpool, London and in Malaga.  
