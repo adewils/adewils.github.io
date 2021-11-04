@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 "They were arguing again" was a prompt from David Mark's writing class. Here's where it took me.  
 
@@ -35,4 +35,3 @@ She pulled her hair back on both sides like Miss Piggy and stamped out, and down
 I lay down again in my room, pulling the covers back over my head. _Bloody hangover!_  
 
 If you’d like to read another story featuring the demon drink, try here
-
