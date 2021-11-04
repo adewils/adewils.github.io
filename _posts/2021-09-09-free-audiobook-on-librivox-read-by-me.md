@@ -1,11 +1,14 @@
 ---
 published: false
 id: null
-date: {}
+date: 2021-09-09T00:00:00.000Z
 author: adewils
 layout: post
 categories:
   - Latest
+excerpt: >-
+  Having wet my head recently in the world of audiobook narration, I’ve started
+  recording another for LibriVox. But it’s not available to listen to, just yet.
 ---
 Since [I wrote a post](posts/2021-07-12-librivox.md) about becoming a Librivox audiobook reader I’ve read _The Great Gatsby_ by Francis Scott Fitzgerald. It’s available to listen to now. This free audiobook on Librivox read by me, is the 2nd version of the original F. Scott Fitzgerald novel on Librivox. Nevertheless it's already had 40,469 views!  
 
