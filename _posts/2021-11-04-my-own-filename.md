@@ -1,5 +1,6 @@
 ---
 published: false
+extract: so here is some new blah
 ---
 ## A New Post1
 
