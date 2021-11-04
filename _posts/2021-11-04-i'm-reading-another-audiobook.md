@@ -1,5 +1,12 @@
 ---
 published: true
+date: {}
+author: adewils
+excerpt: >-
+  Having wet my head recently in the world of audiobook narration, I’ve started
+  recording another for LibriVox. But it’s not available to listen to, just
+  yet. 
+layout: post
 ---
 Having wet my head recently in the world of audiobook narration, I’ve started recording another for LibriVox. But it’s not available to listen to, just yet.  
 
