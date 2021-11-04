@@ -1,3 +1,6 @@
+---
+published: true
+---
 I wrote this in 2013, when I was working in Alderley Edge and I was interested in geocaching.  
 
 Geocaching is you don't know, is an outdoor recreational activity, in which participants use a GPS receiver or mobile device and other navigational techniques to hide and seek containers, called "geocaches" or "caches", at specific locations marked by coordinates all over the world...thanks Wikipedia!  
@@ -43,4 +46,3 @@ It’s not the treasure, it’s the puzzle solved, that’s the important thing.
 I leave the scene, almost undisturbed.  The boughs re-drape.  The moss springs back and receives the rain.  The rabbit and the badger raise their heads above the parapet and carefully survey the near horizon.  Rain slips off the wire.
 
 Looking for some more magic? Try here ...
-
