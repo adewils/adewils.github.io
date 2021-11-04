@@ -1,6 +1,6 @@
 ---
 published: true
-date: null
+date: 2021-11-04T00:00:00.000Z
 author: adewils
 excerpt: >-
   Having wet my head recently in the world of audiobook narration, I’ve started
