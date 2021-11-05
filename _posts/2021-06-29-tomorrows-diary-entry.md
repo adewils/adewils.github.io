@@ -1,6 +1,6 @@
 ---
 id: 80788
-title: _posts/2021-06-29-Tomorrows diary entry
+title: _posts/2021-06-29-diary-entry-for-tomorrow
 date: {}
 author: adewils
 excerpt: >-
