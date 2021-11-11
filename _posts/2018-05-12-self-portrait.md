@@ -1,7 +1,7 @@
 ---
 id: 72922
 title: Self portrait
-date: {}
+date: 2018-05-12T00:00:00.000Z
 author: adewils
 excerpt: >-
   On a hot day in the garden I used my iPad as a mirror and sketched a self
