@@ -6,7 +6,7 @@ date: 2021-11-11T00:00:00.000Z
 ---
 The Late Show’s dead! Well… dead to me, anyhow! I’m now presenting Bay Trust Radio’s alternative music show on Monday evenings.
 
-Here’s [the latest episode](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-9/) of the show from Bay Trust Radio*.
+Here’s [the latest episode](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-9/) of the show from Bay Trust Radio*
 
  It's #109 featuring music from Led Zeppelin, Sparks, Hearing Aid Beige and Hurray For The RiffRaff!
 
