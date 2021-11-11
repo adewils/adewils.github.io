@@ -47,6 +47,8 @@ image: null
 categories:
   - Reportage
 ---
+![adrian at media city.jpeg]({{site.baseurl}}/_posts/adrian at media city.jpeg)
+
 The Late Show’s dead! Well… dead to me, anyhow! The schedule on www.baytrustradio.org.uk has had an Autumn refresh, which means a change of day for me. I’m now presenting the latest episode of Bay Trust Radio’s alternative music show on Monday evening.
  
  [Here’s a podcast](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-9) of the latest episode of my Monday Evening show on Bay Trust Radio. It's #109 featuring music from Led Zeppelin, Sparks, Hearing Aid Beige and Hurray For The RiffRaff!
