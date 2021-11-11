@@ -15,5 +15,3 @@ Some exciting news is that from December 1st we are going to be available on kit
 Join me live every week on Monday’s at 7pm (GMT) on www.baytrustradio.org.uk
 
 _Bay Trust Radio is a registered charity (Charity Number 506296). A group of volunteers run the radio station. There’s much more information about us on our website.”_
-
-© adewils 2021!
