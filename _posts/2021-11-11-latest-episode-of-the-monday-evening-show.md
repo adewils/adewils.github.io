@@ -1,7 +1,7 @@
 ---
 published: true
 id: null
-date: {}
+date: null
 author: adewils
 excerpt: >-
   The Late Show’s dead! Well… dead to me, anyhow. The schedule on
