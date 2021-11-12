@@ -2,7 +2,7 @@
 published: true
 date: 2021-11-11T00:00:00.000Z
 ---
-![adrian-at-media-city.jpeg]({{site.baseurl}}/_images/adrian-at-media-city.jpeg)
+![adrian-at-media-city.jpeg]({{site.baseurl}}/_posts/adrian-at-media-city.jpeg)
 
 ---
 The Late Show’s dead! Well… dead to me, anyhow! I’m now presenting Bay Trust Radio’s alternative music show on Monday evenings.
