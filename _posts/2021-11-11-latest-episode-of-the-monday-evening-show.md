@@ -2,9 +2,6 @@
 published: true
 date: 2021-11-11T00:00:00.000Z
 ---
-![adrian-at-media-city.jpeg]({{site.baseurl}}/_posts/adrian-at-media-city.jpeg)
-
----
 The Late Show’s dead! Well… dead to me, anyhow! I’m now presenting Bay Trust Radio’s alternative music show on Monday evenings.
 
 Here’s [the latest episode](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-9/) of the show from Bay Trust Radio*
@@ -18,5 +15,7 @@ Listen on a DAB+ radio in an area from the Lake District in the North to Morecam
 Never fear, we'll also continue to be available via Alexa, and on your computer and mobile devices around the world wide web.
 
 Join me live every week on Monday’s at 7pm (GMT) on www.baytrustradio.org.uk
+![adrian-at-media-city.jpeg]({{site.baseurl}}/_posts/adrian-at-media-city.jpeg)
+
 
 _*Bay Trust Radio is a registered charity (Charity Number 506296). A group of volunteers run the radio station. There’s much more information about us on our website._
