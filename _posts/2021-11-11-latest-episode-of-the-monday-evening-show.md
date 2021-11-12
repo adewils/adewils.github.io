@@ -15,7 +15,6 @@ Listen on a DAB+ radio in an area from the Lake District in the North to Morecam
 Never fear, we'll also continue to be available via Alexa, and on your computer and mobile devices around the world wide web.
 
 Join me live every week on Monday’s at 7pm (GMT) on www.baytrustradio.org.uk
-![adrian-at-media-city.jpeg]({{site.baseurl}}/_posts/adrian-at-media-city.jpeg)
 
 
 _*Bay Trust Radio is a registered charity (Charity Number 506296). A group of volunteers run the radio station. There’s much more information about us on our website._
