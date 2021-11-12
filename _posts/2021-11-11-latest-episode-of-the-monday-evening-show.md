@@ -1,6 +1,6 @@
 ---
 published: true
-date: {}
+date: 2021-11-11T00:00:00.000Z
 ---
 ![adrian-at-media-city.jpeg]({{site.baseurl}}/_images/adrian-at-media-city.jpeg)
 
