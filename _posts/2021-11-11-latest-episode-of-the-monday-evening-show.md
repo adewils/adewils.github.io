@@ -6,7 +6,7 @@ The Late Show’s dead! Well… dead to me, anyhow! I’m now presenting Bay Tru
 
 Here’s [the latest episode](https://www.mixcloud.com/BayTrustRadio/monday-evening-with-adrian-wilson-26/) of the show from Bay Trust Radio*
 
- It's #109 featuring music from Led Zeppelin, Sparks, Hearing Aid Beige, Hurray For The RiffRaff and many more.
+It's episode #109 featuring music from Led Zeppelin, Sparks, Hearing Aid Beige, Hurray For The RiffRaff and many more.
 
 Some exciting news is that from December 1st we are going to be available on kitchen radios and in cars as long as you have a DAB+ radio in the UK. 
 
