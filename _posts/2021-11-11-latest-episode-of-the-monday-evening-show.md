@@ -10,4 +10,4 @@ It's 2023's episode #17. Along with another Start Me Up Game (in which you get t
 
 ENJOY THE PODCAST
 
-_*Bay Trust Radio is a registered charity (Charity Number 506296). A group of volunteers run the radio station. There’s much more information about us on our website._
+_*Bay Trust Radio is a registered charity (Charity Number 506296). A group of volunteers run the radio station. There’s much more information about us [on our website](https://www.baytrustradio.org.uk) 
