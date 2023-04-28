@@ -39,7 +39,7 @@ As well as stories and poems, you’ll find the occasional video and even a few 
 Every time I look, I find something that needs improvement. So here it is. So far.  
 
 Ta-da!
-… and if you enjoyed this, why not read about my visit to [the Pompidou Centre](_posts/2021-08-16-cac-and-centre-pompidou-malaga-2-2.md) in Malaga
+… and if you enjoyed this, why not read about my visit to [the Pompidou Centre][([_posts/2021-08-16-cac-and-centre-pompidou-malaga-2-2.md](https://github.com/adewils/adewils.github.io/blob/master/_posts/2021-10-26-CAC-Malaga-and-Pompidou-Centre.md))](https://github.com/adewils/adewils.github.io/blob/master/_posts/2021-10-26-CAC-Malaga-and-Pompidou-Centre.md) in Malaga
 
 
 Some stuff about me!
